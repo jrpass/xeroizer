@@ -1,4 +1,4 @@
-require 'active_support/time'
+require 'active_support/core_ext/time/zones'
 
 module Xeroizer
   module Record
